@@ -3,9 +3,9 @@
 
 ## Course Modules
 
-If It is a reading I will add a :books:
-If it has Jest tests I will add a :heavy_check_mark:
-if it has Mocha tests or Vite I will add an :x:
+If It is a reading I will add a :books: <br>
+If it has Jest tests I will add a :heavy_check_mark: <br>
+if it has Mocha tests or Vite I will add an :x: <br>
 
 ### JavaScript and the DOM
 - :books: Phase-1-JS-Intro-to-the-dom
