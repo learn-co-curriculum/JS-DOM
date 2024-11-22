@@ -2,7 +2,7 @@
 
 
 ## Course Modules
-- [ ] JavaScript and the DOM
+### JavaScript and the DOM
     - [] Phase-1-JS-Intro-to-the-dom
     - [] Phase-0-the-dom-dev-tools
     - [] Phase-0-the-dom-editing-lab
@@ -11,11 +11,11 @@
     - [] phase-0-the-dom-modifying-elements-lab
     - [] phase-0-the-dom-query-selector-methods
     - [] phase-1-youre-a-dom-manipulation-expert
-- [ ] JavaScript Events Part 1
+### JavaScript Events Part 1
     - [] phase-0-javascript-events-acting-on-events-lab
     - [] phase-0-javascript-events-event-listening-lab
     - [] phase-1-domcontentloaded
-- [ ] JavaScript Events Part 2
+### JavaScript Events Part 2
     - [] javascript-common-web-apis-for-events-lab
     - [] javascript-common-web-apis-for-events-practice
     - [] javascript-html-forms-lab
@@ -24,20 +24,20 @@
     - [] phase-1-html-forms
     - [] phase-1-tasklister-mini-project
     - [] phase-1-youre-an-eventing-expert
-- [ ] Communicating with the Server
+### Communicating with the Server
     - [] phase-1-fetch-lab
     - [] phase-1-js-fetch-on-demand-with-forms
     - [] phase-1-sending-data-with-fetch
     - [] phase-1-using-fetch
     - [] phase-1-using-json-server-and-postman
-- [ ] Asynchronous JavaScript Part 2
+### Asynchronous JavaScript Part 2
     - [] js-async-intro-to-promises
     - [] phase-1-asynchronous-javascript
-- [ ] Testing Part 2
+### Testing Part 2
     - [] js-tdd-types-of-tests
     - [] js-tdd-writing-unit-tests-lab
     - [] js-tdd-writing-unit-tests
-- [ ] Algorithmic Problem Solving
+### Algorithmic Problem Solving
     - [] Topic1_AlgorithmicProblemSolvingFramework_Fibonacci
     - [] Topic1_AlgorithmicProblemSolvingFramework_MatchingSum
     - [] Topic3_CommonArrayMethods
@@ -52,8 +52,8 @@
     
 ## TODO's
 - [] Add material to sections
-    - [] Adding things that make sense and are not more than 4 years old
+- [] Adding things that make sense and are not more than 4 years old
 - [] Check for Jest tests
-    - [] Will add a note to a lab if it has mocha tests
+- [] Will add a note to a lab if it has mocha tests
 - [] Remove unnecessary labs
 - [] Update TODO's and Check off Sections as they are completed
