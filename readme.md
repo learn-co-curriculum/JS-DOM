@@ -1,6 +1,8 @@
 #  Programmic Thinking with Javascript
 The links on this page take you to the original repos with solution branches and commit history.
 
+The module folders are submodules and link to the original repos as well.
+
 ## Course Modules
 
 If It is a reading I will add a :books: <br>
