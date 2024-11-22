@@ -51,9 +51,9 @@
     - [] problem-solving-tips
     
 ## TODO's
-- [] Add material to sections
-- [] Adding things that make sense and are not more than 4 years old
-- [] Check for Jest tests
-- [] Will add a note to a lab if it has mocha tests
-- [] Remove unnecessary labs
-- [] Update TODO's and Check off Sections as they are completed
+    - [] Add material to sections
+    - [] Adding things that make sense and are not more than 4 years old
+    - [] Check for Jest tests
+    - [] Will add a note to a lab if it has mocha tests
+    - [] Remove unnecessary labs
+    - [] Update TODO's and Check off Sections as they are completed
