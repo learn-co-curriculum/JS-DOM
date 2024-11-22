@@ -1,0 +1,120 @@
+[submodule "JavaScript-and-the-DOM/Phase-1-JS-Intro-to-the-dom"]
+	path = JavaScript-and-the-DOM/Phase-1-JS-Intro-to-the-dom
+	url = https://github.com/learn-co-curriculum/Phase-1-JS-Intro-to-the-dom
+[submodule "JavaScript-and-the-DOM/phase-0-the-dom-dev-tools"]
+	path = JavaScript-and-the-DOM/phase-0-the-dom-dev-tools
+	url = https://github.com/learn-co-curriculum/phase-0-the-dom-dev-tools
+[submodule "JavaScript-and-the-DOM/phase-0-the-dom-editing-lab"]
+	path = JavaScript-and-the-DOM/phase-0-the-dom-editing-lab
+	url = https://github.com/learn-co-curriculum/phase-0-the-dom-editing-lab
+[submodule "JavaScript-and-the-DOM/phase-0-the-dom-introduction"]
+	path = JavaScript-and-the-DOM/phase-0-the-dom-introduction
+	url = https://github.com/learn-co-curriculum/phase-0-the-dom-introduction
+[submodule "JavaScript-and-the-DOM/phase-0-the-dom-is-a-tree"]
+	path = JavaScript-and-the-DOM/phase-0-the-dom-is-a-tree
+	url = https://github.com/learn-co-curriculum/phase-0-the-dom-is-a-tree
+[submodule "JavaScript-and-the-DOM/phase-0-the-dom-modifying-elements-lab"]
+	path = JavaScript-and-the-DOM/phase-0-the-dom-modifying-elements-lab
+	url = https://github.com/learn-co-curriculum/phase-0-the-dom-modifying-elements-lab
+[submodule "JavaScript-and-the-DOM/phase-0-the-dom-query-selector-methods"]
+	path = JavaScript-and-the-DOM/phase-0-the-dom-query-selector-methods
+	url = https://github.com/learn-co-curriculum/phase-0-the-dom-query-selector-methods
+[submodule "JavaScript-and-the-DOM/phase-1-youre-a-dom-manipulation-expert"]
+	path = JavaScript-and-the-DOM/phase-1-youre-a-dom-manipulation-expert
+	url = https://github.com/learn-co-curriculum/phase-1-youre-a-dom-manipulation-expert
+[submodule "JavaScript-events-part-1/phase-0-javascript-events-acting-on-events-lab"]
+	path = JavaScript-events-part-1/phase-0-javascript-events-acting-on-events-lab
+	url = https://github.com/learn-co-curriculum/phase-0-javascript-events-acting-on-events-lab
+[submodule "JavaScript-events-part-1/phase-0-javascript-events-event-listening-lab"]
+	path = JavaScript-events-part-1/phase-0-javascript-events-event-listening-lab
+	url = https://github.com/learn-co-curriculum/phase-0-javascript-events-event-listening-lab
+[submodule "JavaScript-events-part-1/phase-1-domcontentloaded"]
+	path = JavaScript-events-part-1/phase-1-domcontentloaded
+	url = https://github.com/learn-co-curriculum/phase-1-domcontentloaded
+[submodule "JavaScript-events-part-2/javascript-common-web-apis-for-events-lab"]
+	path = JavaScript-events-part-2/javascript-common-web-apis-for-events-lab
+	url = https://github.com/learn-co-curriculum/javascript-common-web-apis-for-events-lab
+[submodule "JavaScript-events-part-2/javascript-common-web-apis-for-events-practice"]
+	path = JavaScript-events-part-2/javascript-common-web-apis-for-events-practice
+	url = https://github.com/learn-co-curriculum/javascript-common-web-apis-for-events-practice
+[submodule "JavaScript-events-part-2/javascript-html-forms-lab"]
+	path = JavaScript-events-part-2/javascript-html-forms-lab
+	url = https://github.com/learn-co-curriculum/javascript-html-forms-lab
+[submodule "JavaScript-events-part-2/javascript-html-forms-practice"]
+	path = JavaScript-events-part-2/javascript-html-forms-practice
+	url = https://github.com/learn-co-curriculum/javascript-html-forms-practice
+[submodule "JavaScript-events-part-2/phase-1-html-forms-lab"]
+	path = JavaScript-events-part-2/phase-1-html-forms-lab
+	url = https://github.com/learn-co-curriculum/phase-1-html-forms-lab
+[submodule "JavaScript-events-part-2/phase-1-html-forms"]
+	path = JavaScript-events-part-2/phase-1-html-forms
+	url = https://github.com/learn-co-curriculum/phase-1-html-forms
+[submodule "JavaScript-events-part-2/phase-1-tasklister-mini-project"]
+	path = JavaScript-events-part-2/phase-1-tasklister-mini-project
+	url = https://github.com/learn-co-curriculum/phase-1-tasklister-mini-project
+[submodule "JavaScript-events-part-2/phase-1-youre-an-eventing-expert"]
+	path = JavaScript-events-part-2/phase-1-youre-an-eventing-expert
+	url = https://github.com/learn-co-curriculum/phase-1-youre-an-eventing-expert
+[submodule "Communicating-with-the-Server/phase-1-fetch-lab"]
+	path = Communicating-with-the-Server/phase-1-fetch-lab
+	url = https://github.com/learn-co-curriculum/phase-1-fetch-lab
+[submodule "Communicating-with-the-Server/phase-1-js-fetch-on-demand-with-forms"]
+	path = Communicating-with-the-Server/phase-1-js-fetch-on-demand-with-forms
+	url = https://github.com/learn-co-curriculum/phase-1-js-fetch-on-demand-with-forms
+[submodule "Communicating-with-the-Server/phase-1-sending-data-with-fetch"]
+	path = Communicating-with-the-Server/phase-1-sending-data-with-fetch
+	url = https://github.com/learn-co-curriculum/phase-1-sending-data-with-fetch
+[submodule "Communicating-with-the-Server/phase-1-using-fetch"]
+	path = Communicating-with-the-Server/phase-1-using-fetch
+	url = https://github.com/learn-co-curriculum/phase-1-using-fetch
+[submodule "Communicating-with-the-Server/phase-1-using-json-server-and-postman"]
+	path = Communicating-with-the-Server/phase-1-using-json-server-and-postman
+	url = https://github.com/learn-co-curriculum/phase-1-using-json-server-and-postman
+[submodule "Asynchronous-JavaScript-part-2/js-async-intro-to-promises"]
+	path = Asynchronous-JavaScript-part-2/js-async-intro-to-promises
+	url = https://github.com/learn-co-curriculum/js-async-intro-to-promises
+[submodule "Asynchronous-JavaScript-part-2/phase-1-asynchronous-javascript"]
+	path = Asynchronous-JavaScript-part-2/phase-1-asynchronous-javascript
+	url = https://github.com/learn-co-curriculum/phase-1-asynchronous-javascript
+[submodule "Testing-part-2/js-tdd-types-of-tests"]
+	path = Testing-part-2/js-tdd-types-of-tests
+	url = https://github.com/learn-co-curriculum/js-tdd-types-of-tests
+[submodule "Testing-part-2/js-tdd-writing-unit-tests-lab"]
+	path = Testing-part-2/js-tdd-writing-unit-tests-lab
+	url = https://github.com/learn-co-curriculum/js-tdd-writing-unit-tests-lab
+[submodule "Testing-part-2/js-tdd-writing-unit-tests"]
+	path = Testing-part-2/js-tdd-writing-unit-tests
+	url = https://github.com/learn-co-curriculum/js-tdd-writing-unit-tests
+[submodule "Algortihmic-problem-solving/Topic1_AlgorithmicProblemSolvingFramework_Fibonacci"]
+	path = Algortihmic-problem-solving/Topic1_AlgorithmicProblemSolvingFramework_Fibonacci
+	url = https://github.com/learn-co-curriculum/Topic1_AlgorithmicProblemSolvingFramework_Fibonacci
+[submodule "Algortihmic-problem-solving/Topic1_AlgorithmicProblemSolvingFramework_MatchingSum"]
+	path = Algortihmic-problem-solving/Topic1_AlgorithmicProblemSolvingFramework_MatchingSum
+	url = https://github.com/learn-co-curriculum/Topic1_AlgorithmicProblemSolvingFramework_MatchingSum
+[submodule "Algortihmic-problem-solving/Topic3_CommonArrayMethods"]
+	path = Algortihmic-problem-solving/Topic3_CommonArrayMethods
+	url = https://github.com/learn-co-curriculum/Topic3_CommonArrayMethods
+[submodule "Algortihmic-problem-solving/dsa-whiteboard-and-calculate-big-o"]
+	path = Algortihmic-problem-solving/dsa-whiteboard-and-calculate-big-o
+	url = https://github.com/learn-co-curriculum/dsa-whiteboard-and-calculate-big-o
+[submodule "Algortihmic-problem-solving/dsa-whiteboard-big-o"]
+	path = Algortihmic-problem-solving/dsa-whiteboard-big-o
+	url = https://github.com/learn-co-curriculum/dsa-whiteboard-big-o
+[submodule "Algortihmic-problem-solving/intro-to-big-o"]
+	path = Algortihmic-problem-solving/intro-to-big-o
+	url = https://github.com/learn-co-curriculum/intro-to-big-o
+[submodule "Algortihmic-problem-solving/phase-1-algorithms-algorithmic-problem-solving-conclusion"]
+	path = Algortihmic-problem-solving/phase-1-algorithms-algorithmic-problem-solving-conclusion
+	url = https://github.com/learn-co-curriculum/phase-1-algorithms-algorithmic-problem-solving-conclusion
+[submodule "Algortihmic-problem-solving/phase-1-algorithms-big-o-examples"]
+	path = Algortihmic-problem-solving/phase-1-algorithms-big-o-examples
+	url = https://github.com/learn-co-curriculum/phase-1-algorithms-big-o-examples
+[submodule "Algortihmic-problem-solving/phase-1-algorithms-big-o"]
+	path = Algortihmic-problem-solving/phase-1-algorithms-big-o
+	url = https://github.com/learn-co-curriculum/phase-1-algorithms-big-o
+[submodule "Algortihmic-problem-solving/phase-1-algorithms-intro-to-algorithmic-problem-solving"]
+	path = Algortihmic-problem-solving/phase-1-algorithms-intro-to-algorithmic-problem-solving
+	url = https://github.com/learn-co-curriculum/phase-1-algorithms-intro-to-algorithmic-problem-solving
+[submodule "Algortihmic-problem-solving/problem-solving-tips"]
+	path = Algortihmic-problem-solving/problem-solving-tips
+	url = https://github.com/learn-co-curriculum/problem-solving-tips
