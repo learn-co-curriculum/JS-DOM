@@ -16,11 +16,10 @@ if it has Mocha tests or Vite I will add an :x: <br>
 - :x: [phase-0-the-dom-modifying-elements-lab](https://github.com/learn-co-curriculum/phase-0-the-dom-modifying-elements-lab)
 - :books: [phase-0-the-dom-query-selector-methods](https://github.com/learn-co-curriculum/phase-0-the-dom-query-selector-methods)
 - :books: [phase-1-youre-a-dom-manipulation-expert](https://github.com/learn-co-curriculum/phase-1-youre-a-dom-manipulation-expert)
-### JavaScript Events Part 1
+### JavaScript Events
 - :x: [phase-0-javascript-events-acting-on-events-lab](https://github.com/learn-co-curriculum/phase-0-javascript-events-acting-on-events-lab)
 - :x: [phase-0-javascript-events-event-listening-lab](https://github.com/learn-co-curriculum/phase-0-javascript-events-event-listening-lab)
 - :x: [phase-1-domcontentloaded](https://github.com/learn-co-curriculum/phase-1-domcontentloaded)
-### JavaScript Events Part 2
 - :x: [javascript-common-web-apis-for-events-lab](https://github.com/learn-co-curriculum/javascript-common-web-apis-for-events-lab)
 - :x: [javascript-common-web-apis-for-events-practice](https://github.com/learn-co-curriculum/javascript-common-web-apis-for-events-practice)
 - :x: [javascript-html-forms-lab](https://github.com/learn-co-curriculum/javascript-html-forms-lab)
@@ -29,13 +28,13 @@ if it has Mocha tests or Vite I will add an :x: <br>
 - :books: [phase-1-html-forms](https://github.com/learn-co-curriculum/phase-1-html-forms)
 - :x: [phase-1-tasklister-mini-project](https://github.com/learn-co-curriculum/phase-1-tasklister-mini-project)
 - :books: [phase-1-youre-an-eventing-expert](https://github.com/learn-co-curriculum/phase-1-youre-an-eventing-expert)
-### Communicating with the Server
+### Communicating with the External API
 - :x: [phase-1-fetch-lab](https://github.com/learn-co-curriculum/phase-1-fetch-lab)
 - :x: [phase-1-js-fetch-on-demand-with-forms](https://github.com/learn-co-curriculum/phase-1-js-fetch-on-demand-with-forms)
 - :x: [phase-1-sending-data-with-fetch](https://github.com/learn-co-curriculum/phase-1-sending-data-with-fetch)
 - :books: [phase-1-using-fetch](https://github.com/learn-co-curriculum/phase-1-using-fetch)
 - :x: [phase-1-using-json-server-and-postman](https://github.com/learn-co-curriculum/phase-1-using-json-server-and-postman)
-### Asynchronous JavaScript Part 2
+### Asynchronous JavaScript
 - :books: [js-async-intro-to-promises](https://github.com/learn-co-curriculum/js-async-intro-to-promises)
 - :books: [phase-1-asynchronous-javascript](https://github.com/learn-co-curriculum/phase-1-asynchronous-javascript)
 ### Testing Part 2
